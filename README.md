@@ -12,6 +12,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
+### Database
+<details>
+<summary>Click to expand Database problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
+
+</details>
+
+
 ### General
 <details>
 <summary>Click to expand General problems</summary>
