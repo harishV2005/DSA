@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
 | 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
+| 586 | [Customer Placing the Largest Number of Orders](./Database/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/) | Easy |
 
 </details>
 
