@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 817 | [Linked List Components](./Array/Linked%20List%20Components/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 
 </details>
