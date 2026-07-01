@@ -10,18 +10,18 @@
  */
 class Solution {
     public int numComponents(ListNode head, int[] nums) {
-        int a=0;
-        ListNode dummy=head;
-        while(dummy!=null)
-        {
-            a=a+dummy.val;
-            dummy=dummy.next;
-        }
-        for(int i=0;i<nums.length;i++)
-        {
-            a=a-nums[i];
-        }
-        return a;
+       HashSet<Integer> set = new HashSet<>();
+       for (int x : nums)
+            set.add(x);
+        int count = 0;
+    while (head != null) {
+    if (set.contains(head.val) &&
+        (head.next == null || !set.contains(head.next.val))) {
+        count++;
+    }
+    head = head.next;
+}
+return count;
         
     }
 }
