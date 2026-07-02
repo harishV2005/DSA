@@ -1,0 +1,14 @@
+        }
+        else {
+
+            minStack.push(minStack.peek());
+        }
+    }
+    
+    public void pop() {
+        stack.pop();
+        minStack.pop();
+    }
+    
+    public int top() {
+        return stack.peek();

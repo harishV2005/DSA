@@ -5,32 +5,31 @@
 
 ## Problem Statement
 
-<p>Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.</p>
+Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 
-<p>Implement the <code>MinStack</code> class:</p>
+Implement the MinStack class:
 
-<ul>
-	<li><code>MinStack()</code> initializes the stack object.</li>
-	<li><code>void push(int value)</code> pushes the element <code>value</code> onto the stack.</li>
-	<li><code>void pop()</code> removes the element on the top of the stack.</li>
-	<li><code>int top()</code> gets the top element of the stack.</li>
-	<li><code>int getMin()</code> retrieves the minimum element in the stack.</li>
-</ul>
 
-<p>You must implement a solution with <code>O(1)</code> time complexity for each function.</p>
+	MinStack() initializes the stack object.
+	void push(int value) pushes the element value onto the stack.
+	void pop() removes the element on the top of the stack.
+	int top() gets the top element of the stack.
+	int getMin() retrieves the minimum element in the stack.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input</strong>
-[&quot;MinStack&quot;,&quot;push&quot;,&quot;push&quot;,&quot;push&quot;,&quot;getMin&quot;,&quot;pop&quot;,&quot;top&quot;,&quot;getMin&quot;]
+You must implement a solution with O(1) time complexity for each function.
+
+ 
+Example 1:
+
+Input
+["MinStack","push","push","push","getMin","pop","top","getMin"]
 [[],[-2],[0],[-3],[],[],[],[]]
 
-<strong>Output</strong>
+Output
 [null,null,null,null,-3,null,0,-2]
 
-<strong>Explanation</strong>
+Explanation
 MinStack minStack = new MinStack();
 minStack.push(-2);
 minStack.push(0);
@@ -39,17 +38,44 @@ minStack.getMin(); // return -3
 minStack.pop();
 minStack.top();    // return 0
 minStack.getMin(); // return -2
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>-2<sup>31</sup> &lt;= val &lt;= 2<sup>31</sup> - 1</code></li>
-	<li>Methods <code>pop</code>, <code>top</code> and <code>getMin</code> operations will always be called on <strong>non-empty</strong> stacks.</li>
-	<li>At most <code>3 * 10<sup>4</sup></code> calls will be made to <code>push</code>, <code>pop</code>, <code>top</code>, and <code>getMin</code>.</li>
-</ul>
+ 
+Constraints:
 
+
+	-231 <= val <= 231 - 1
+	Methods pop, top and getMin operations will always be called on non-empty stacks.
+	At most 3 * 104 calls will be made to push, pop, top, and getMin.
+
+## Examples
+
+```
+Input
+["MinStack","push","push","push","getMin","pop","top","getMin"]
+[[],[-2],[0],[-3],[],[],[],[]]
+
+Output
+[null,null,null,null,-3,null,0,-2]
+
+Explanation
+MinStack minStack = new MinStack();
+minStack.push(-2);
+minStack.push(0);
+minStack.push(-3);
+minStack.getMin(); // return -3
+minStack.pop();
+minStack.top();    // return 0
+minStack.getMin(); // return -2
+```
+
+## Constraints
+
+- MinStack() initializes the stack object.
+- void push(int value) pushes the element value onto the stack.
+- void pop() removes the element on the top of the stack.
+- int top() gets the top element of the stack.
+- int getMin() retrieves the minimum element in the stack.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
