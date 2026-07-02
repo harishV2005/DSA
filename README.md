@@ -51,6 +51,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 148 | [Sort List](./Linked%20List/Sort%20List/) | Medium |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
