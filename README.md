@@ -43,6 +43,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 627 | [Swap Sex of Employees](./Database/Swap%20Sex%20of%20Employees/) | Easy |
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
+| 1280 | [Students and Examinations](./Database/Students%20and%20Examinations/) | Easy |
 
 </details>
 
