@@ -70,6 +70,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Math
+<details>
+<summary>Click to expand Math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+
+</details>
+
+
 ### Stack
 <details>
 <summary>Click to expand Stack problems</summary>
