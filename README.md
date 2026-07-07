@@ -24,6 +24,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Easy |
 | 817 | [Linked List Components](./Array/Linked%20List%20Components/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
+| 1652 | [Defuse the Bomb](./Array/Defuse%20the%20Bomb/) | Easy |
 
 </details>
 
