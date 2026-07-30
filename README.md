@@ -78,6 +78,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
+| 3014 | [Minimum Number of Pushes to Type Word I](./Math/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20I/) | Easy |
 
 </details>
 
