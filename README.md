@@ -49,6 +49,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### General
+<details>
+<summary>Click to expand General problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| — | [Symmetric Tree](./General/Symmetric%20Tree/) | Medium |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
