@@ -56,7 +56,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 424 | [Longest Repeating Character Replacement](./Hash%20Table/Longest%20Repeating%20Character%20Replacement/) | Medium |
-| 3016 | [Minimum Number of Pushes to Type Word II](./Hash%20Table/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) | Medium |
+| 3016 | [Minimum Number of Pushes to Type Word II](./Hash%20Table/Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II/) | Easy |
 
 </details>
 
