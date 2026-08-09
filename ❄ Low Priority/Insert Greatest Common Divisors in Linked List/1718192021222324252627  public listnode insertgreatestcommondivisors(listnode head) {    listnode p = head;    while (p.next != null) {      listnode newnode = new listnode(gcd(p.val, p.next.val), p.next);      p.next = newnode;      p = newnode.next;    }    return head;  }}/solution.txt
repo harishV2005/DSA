@@ -1,0 +1,11 @@
+  public ListNode insertGreatestCommonDivisors(ListNode head) {
+    ListNode p = head;
+
+    while (p.next != null) {
+      ListNode newNode = new ListNode(gcd(p.val, p.next.val), p.next);
+      p.next = newNode;
+      p = newNode.next;
+    }
+    return head;
+  }
+}
