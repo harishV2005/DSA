@@ -128,6 +128,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### 🔥 High Priority
+<details>
+<summary>Click to expand 🔥 High Priority problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 92 | [Reverse Linked List II](./%F0%9F%94%A5%20High%20Priority/Reverse%20Linked%20List%20II/) | Easy |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
