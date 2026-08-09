@@ -135,6 +135,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 817 | [Linked List Components](./%E2%9A%A1%20Medium%20Priority/Linked%20List%20Components/) | Medium |
+| 1721 | [Swapping Nodes in a Linked List](./%E2%9A%A1%20Medium%20Priority/Swapping%20Nodes%20in%20a%20Linked%20List/) | Medium |
 
 </details>
 
