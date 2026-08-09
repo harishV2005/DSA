@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        HashMap <Integer,Integer> g=new HashMap<>();
+        HashMap <Integer,Integer> g=new LinkedHashMap<>();
         while(head!=null)
         {
             g.put(head.val,g.getOrDefault(head.val,0)+1);
