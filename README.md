@@ -135,6 +135,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 92 | [Reverse Linked List II](./%F0%9F%94%A5%20High%20Priority/Reverse%20Linked%20List%20II/) | Easy |
+| 160 | [Intersection of Two Linked Lists](./%F0%9F%94%A5%20High%20Priority/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 
 </details>
 
