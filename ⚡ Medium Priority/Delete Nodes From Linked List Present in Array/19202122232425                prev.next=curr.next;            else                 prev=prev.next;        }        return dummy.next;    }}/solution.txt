@@ -1,0 +1,7 @@
+                prev.next=curr.next;
+            else 
+                prev=prev.next;
+        }
+        return dummy.next;
+    }
+}
