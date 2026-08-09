@@ -1,0 +1,12 @@
+ */
+class Solution {
+    public ListNode mergeNodes(ListNode head) {
+        ListNode modify = head.next;
+        ListNode curr = modify;
+        while (curr != null) {
+            int sum = 0;
+            while (curr.val != 0) {
+                sum += curr.val;
+                curr = curr.next;
+            }
+            modify.val = sum;
