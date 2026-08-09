@@ -148,6 +148,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 92 | [Reverse Linked List II](./%F0%9F%94%A5%20High%20Priority/Reverse%20Linked%20List%20II/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./%F0%9F%94%A5%20High%20Priority/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 328 | [Odd Even Linked List](./%F0%9F%94%A5%20High%20Priority/Odd%20Even%20Linked%20List/) | Easy |
+| 876 | [Middle of the Linked List](./%F0%9F%94%A5%20High%20Priority/Middle%20of%20the%20Linked%20List/) | Easy |
 
 </details>
 
