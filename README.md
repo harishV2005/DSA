@@ -22,7 +22,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Easy |
-| 817 | [Linked List Components](./Array/Linked%20List%20Components/) | Medium |
 | 1004 | [Max Consecutive Ones III](./Array/Max%20Consecutive%20Ones%20III/) | Medium |
 | 1652 | [Defuse the Bomb](./Array/Defuse%20the%20Bomb/) | Easy |
 
@@ -125,6 +124,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
+
+</details>
+
+
+### ⚡ Medium Priority
+<details>
+<summary>Click to expand ⚡ Medium Priority problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 817 | [Linked List Components](./%E2%9A%A1%20Medium%20Priority/Linked%20List%20Components/) | Medium |
 
 </details>
 
