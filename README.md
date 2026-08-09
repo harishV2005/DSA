@@ -141,6 +141,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### ❄ Low Priority
+<details>
+<summary>Click to expand ❄ Low Priority problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2807 | [Insert Greatest Common Divisors in Linked List](./%E2%9D%84%20Low%20Priority/Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List/) | Easy |
+
+</details>
+
+
 ### 🔥 High Priority
 <details>
 <summary>Click to expand 🔥 High Priority problems</summary>
