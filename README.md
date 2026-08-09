@@ -77,6 +77,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 82 | [Remove Duplicates from Sorted List II](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List%20II/) | Medium |
 | 148 | [Sort List](./Linked%20List/Sort%20List/) | Medium |
 | 725 | [Split Linked List in Parts](./Linked%20List/Split%20Linked%20List%20in%20Parts/) | Medium |
 
