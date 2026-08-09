@@ -1,0 +1,12 @@
+ */
+class Solution {
+    public ListNode[] splitListToParts(ListNode head, int k) {
+        ListNode [] result=new ListNode[k];
+        ListNode dummy=head;
+        int c=0;
+        while(dummy!=null) 
+        {
+            c++;
+            dummy=dummy.next;
+        }
+        dummy=head;

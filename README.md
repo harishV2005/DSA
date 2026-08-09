@@ -79,6 +79,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 148 | [Sort List](./Linked%20List/Sort%20List/) | Medium |
+| 725 | [Split Linked List in Parts](./Linked%20List/Split%20Linked%20List%20in%20Parts/) | Medium |
 
 </details>
 
